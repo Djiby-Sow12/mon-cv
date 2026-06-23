@@ -48,3 +48,5 @@ mon-cv/
 Djiby Sow — Licence 2 Informatique  
 Université Iba Der Thiam de Thiès (UIDT)  
 GitHub : https://github.com/DJIBY-Sow12
+## 🌐 Mon CV en ligne
+[Voir mon CV interactif](https://djiby-sow12.github.io/mon-cv/)
